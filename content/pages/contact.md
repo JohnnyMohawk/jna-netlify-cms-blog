@@ -1,10 +1,10 @@
 ---
-title: Contact us
-subtitle: ''
+title: talk to me
+subtitle: let's connect
 featuredImage: '/images/uploads/mark-chang-74-3.jpg'
-address: 404 James St, Burleigh Heads QLD 4220
-phone: 0987 123 456
-email: example@example.com
+address: Chicago, Il, USA, Earth
+phone: ''
+email: johnnelsonalden.com
 ---
 
 # Example contact form

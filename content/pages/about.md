@@ -1,5 +1,5 @@
 ---
-title: About page title
+title: ¿who the f*ck is Johnny Mohawk?
 featuredImage: /images/uploads/tim-marshall-155597.jpg
 section1: |-
   ## Lorem Ipsum

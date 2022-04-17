@@ -15,13 +15,13 @@ export default ({ handlePopupOpen }) => (
         Home
       </NavLink> */}
       <NavLink to='/about/' exact>
-        who
+        ¿Johnny Mohawk?
       </NavLink>
       <NavLink to='/blog/' exact>
-        words
+        Bloggery
       </NavLink>
       <NavLink to='/contact/' exact>
-        connect
+        Say Hello
       </NavLink>
     </div>
   </nav>
