@@ -1,7 +1,7 @@
 ---
-title: Hello World!
+title: Johnny Mohawk in words.
 featuredImage: /images/uploads/isabella juskova.jpg
-subtitle: This is the home page subtitle
+subtitle: I write about art, code, food, chicago, and various other things that interest me. 
 meta:
   title: ''
 ---

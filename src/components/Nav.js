@@ -11,17 +11,17 @@ export default ({ handlePopupOpen }) => (
       <Link to='/'>
         <Logo />
       </Link>
-      <NavLink to='/' exact>
+      {/* <NavLink to='/' exact>
         Home
-      </NavLink>
+      </NavLink> */}
       <NavLink to='/about/' exact>
-        About
+        who
       </NavLink>
       <NavLink to='/blog/' exact>
-        Blog
+        words
       </NavLink>
       <NavLink to='/contact/' exact>
-        Contact
+        connect
       </NavLink>
     </div>
   </nav>
