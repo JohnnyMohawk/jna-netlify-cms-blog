@@ -3,12 +3,11 @@ import { Link } from 'react-router-dom'
 
 import { slugify } from '../util/url'
 
-import Content from '../components/Content'
 import PageHeader from '../components/PageHeader'
 import './Home.css'
 
 export default ({ fields }) => {
-  const { title, subtitle, featuredImage, body } = fields
+  const { title, subtitle, featuredImage } = fields
   return (
     <main className='Home'>
       <PageHeader
