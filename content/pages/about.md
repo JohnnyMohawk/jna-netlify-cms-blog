@@ -1,6 +1,6 @@
 ---
 title: ¿who the f*ck is Johnny Mohawk?
-featuredImage: /images/uploads/tim-marshall-155597.jpg
+featuredImage: /images/uploads/who-is.jpg
 section1: |-
   ## Lorem Ipsum
 

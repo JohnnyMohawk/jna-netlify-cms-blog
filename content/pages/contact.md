@@ -1,18 +1,14 @@
 ---
 title: talk to me
 subtitle: let's connect
-featuredImage: '/images/uploads/mark-chang-74-3.jpg'
+featuredImage: '/images/uploads/type-letter-BG.jpg'
 address: Chicago, Il, USA, Earth
 phone: ''
-email: johnnelsonalden.com
+email: johnnelsonalden@gmail.com
 ---
 
-# Example contact form
+# Super Official Contact Form:
 
-This form is setup to use Netlify's form handling:
+If you would like to contact me please fill out this form and I will get back to you as soon as possible. Thanks and I appreciate you.
 
-* the form action is set to the current absolute url: `action: '/contact/'`
-* a name attribute is sent with the form's data `'form-name': 'Contact'`
-* netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
 
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).

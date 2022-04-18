@@ -1,2 +1,10 @@
 .Home {
 }
+
+.homeLinks {
+    text-decoration: none;
+}
+
+.homeLinks:hover {
+    color: #ff00ff;
+}

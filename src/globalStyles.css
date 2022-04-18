@@ -1,5 +1,6 @@
 :root {
-  --primary: #0984d2;
+  /* --primary: #0984d2; */
+  --primary: tomato;
   --primary-light: #6fadff;
   --secondary: #212121;
   --lightGrey: whitesmoke;
