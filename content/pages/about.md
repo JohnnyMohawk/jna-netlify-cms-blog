@@ -27,15 +27,15 @@ section1: |-
 
   #### &nbsp;
 
-  Yep, that little kid is me. This was the beginning of my professional career. The year was 1991. The show was The Young and the Restless
-  The character was Nicholas Newman. My age? I told you, I was never young.
+  Yep, that little kid is me. This was the beginning of my professional career. The year was 1991. The show was The Young and
+  the Restless. The character was Nicholas Newman. My age? I told you, I was never young.
 
   That’s not to say that I didn’t have a childhood. I did, and I wouldn’t change a single thing about it! Being exposed to this
   environment when I was a child taught me one thing that I have carried with me my entire life. The “magic” of television and
   film is simple: It is the culmination of all the work of the people you do not see on screen. What the viewer sees is all an
   illusion, and the creators of a quality illusion work tirelessly to make the viewer forget this fact. For all but those on
   screen, a job well done means to remain an invisible piece of the illusion. Learning this turned “magic” into
-  somethingtangible, a strong belief in the power of teamwork!
+  something tangible, a strong belief in the power of teamwork!
 
   ### When tightly knit teams of highly trained professionals work together in a fluid way, anything is possible.
 
