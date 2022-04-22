@@ -25,3 +25,13 @@
       transform:rotate(360deg);
   }
 }
+
+@media screen and (max-width: 900px) {
+  .Logo:hover {
+    -webkit-filter: invert(0%) !important;
+      animation-name: none;
+      /* animation-duration: 5000ms;
+      animation-iteration-count: infinite;
+      animation-timing-function: linear; */
+  }
+}

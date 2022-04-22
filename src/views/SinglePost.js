@@ -45,18 +45,20 @@ export default ({ fields, nextPostURL, prevPostURL }) => {
           </div>
 
           <div className="SinglePost--Pagination">
-            {prevPostURL && (
-              <Link
-                className="SinglePost--Pagination--Link prev"
-                to={prevPostURL}
-              >
-                Previous Post
-              </Link>
-            )}
+            
             {nextPostURL && (
               <Link
                 className="SinglePost--Pagination--Link next"
                 to={nextPostURL}
+              >
+                Prev Post
+              </Link>
+            )}
+            {prevPostURL && (
+              <Link
+                id="nextPost"
+                className="SinglePost--Pagination--Link prev"
+                to={prevPostURL}
               >
                 Next Post
               </Link>

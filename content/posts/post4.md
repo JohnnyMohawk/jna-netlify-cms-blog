@@ -1,6 +1,6 @@
 ---
 title: The Engineer
-status: Featured / Published
+status: Published
 date: '2022-04-22'
 postFeaturedImage: /images/uploads/YEL-ENGINEER.jpg
 excerpt: >-

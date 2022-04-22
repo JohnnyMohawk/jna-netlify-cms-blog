@@ -5,6 +5,7 @@ date: '2022-04-20'
 postFeaturedImage: /images/uploads/TAD-JM.jpg
 excerpt: I am a proponent of living with focused intention. I lay out plans, establish checkpoints and milestones along the way, and then set them in motion. But in this context, that felt impossible.. 
 categories:
+  - category: Life
   - category: Code
 ---
 

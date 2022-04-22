@@ -7,6 +7,11 @@
 
 .SinglePost--BackButton {
   color: white;
+  text-shadow:
+  1px 1px 25px #ff00ff,
+  1px 1px 25px #ff00ff,
+  1px 1px 25px #ff00ff,
+  1px 1px 25px #ff00ff;
   position: relative;
   display: flex;
   align-items: center;
@@ -30,6 +35,21 @@
   background: white;
   margin-top: 30rem;
   padding: 8rem 8rem 4rem 8rem;
+}
+
+.SinglePost--Pagination--Link {
+  margin-left: 0 !important;
+  width: 10%;
+}
+
+#nextPost {
+  margin-left: 80% !important;
+}
+
+@media screen and (max-width: 960px) {
+  #nextPost {
+    margin-left: 85% !important;
+  }
 }
 
 @media screen and (max-width: 750px) {

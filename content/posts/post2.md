@@ -4,6 +4,9 @@ status: Published
 date: '2022-04-18'
 postFeaturedImage: /images/uploads/code.jpg
 excerpt: People really want to believe that “can’t teach an old dog new tricks” bullsh_t! I’m not going to go all motivational speaker… but seriously, f_ck that! Anyone who truly believes what this old adage is supposed to imply must be miserable.
+categories:
+  - category: Life
+  - category: Code
 ---
  
 It has recently come to my attention that I am old. The clues have been there for a while now, but I didn’t fully realize it until making the transition into the tech industry. Again, this should not have been a surprise. The writing has been on the wall, the arthritis in my feet from two decades in kitchens, the lines chiseled on my brow, and the fact that I still don’t understand TikTok, I should have known. However, coming from the restaurant industry where no one is ever young, and no one is old until they retire or die, I had entirely ignored all these telltale signs that I am indeed old.

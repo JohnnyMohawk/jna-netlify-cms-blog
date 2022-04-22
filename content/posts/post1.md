@@ -5,7 +5,8 @@ date: '2022-04-15'
 postFeaturedImage: /images/uploads/cleavers-keys.jpg
 excerpt: I figured that once I could build something that would impress myself, it would impress others as well, that would kill my imposter syndrome, and I would be ready for a job in the tech industry…   
 categories:
-  - category: Rando
+  - category: Life
+  - category: Code
 ---
 
 My first job was working as a child actor on a soap opera. This role ran for four years, until my character was sent to boarding school and in typical soap opera fashion, returned weeks later a fully grown man… This was an amazing experience, but my interest in acting was fading. I did continue to act throughout my teens, but at 16 I found a new passion that steered my career in a different direction. Over the summer that year, I began working at my best friend’s family’s Thai restaurant. I truly believe there is no greater test of one’s hustle, work-ethic and on-the-fly problem solving abilities than working a shift in a busy kitchen during service. I got hooked immediately and spent the next 16 years honing my skills, expanding my culinary knowledge and working in some of the finest kitchens in the world.

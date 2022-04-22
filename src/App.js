@@ -17,6 +17,7 @@ import data from './data.json'
 import { slugify } from './util/url'
 import { documentHasTerm, getCollectionTerms } from './util/collection'
 
+
 const RouteWithMeta = ({ component: Component, ...props }) => (
   <Route
     {...props}

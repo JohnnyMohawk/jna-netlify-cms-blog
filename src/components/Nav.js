@@ -14,13 +14,13 @@ export default ({ handlePopupOpen }) => (
       {/* <NavLink to='/' exact>
         Home
       </NavLink> */}
-      <NavLink to='/about/' exact>
+      <NavLink className='jmLink' id="JML" to='/about/' exact>
         ¿Johnny Mohawk?
       </NavLink>
-      <NavLink to='/blog/' exact>
+      <NavLink className='jmLink' to='/blog/' exact>
         Bloggery
       </NavLink>
-      <NavLink to='/contact/' exact>
+      <NavLink className='jmLink' to='/contact/' exact>
         Say Hello
       </NavLink>
     </div>

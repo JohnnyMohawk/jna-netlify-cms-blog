@@ -9,11 +9,27 @@
 }
 
 .PageHeader--Title {
-  font-size: 6rem;
+  /* font-size: 6rem; */
+  /* font-size: 3.5vmax; */
+  font-size: 7.6vmin;
   margin-bottom: 0;
+  text-shadow:
+  1px 1px 25px rgb(138, 138, 138);
+  /* -1px -1px 15px #ff00ff; */
 }
 
 .PageHeader--Subtitle {
   font-weight: 400;
-  font-size: 1.8rem;
+  font-size: 2.25rem;
+  text-shadow:
+  -1px -1px 15px rgb(138, 138, 138),
+  -1px -1px 15px rgb(138, 138, 138),
+  1px 1px 25px rgb(138, 138, 138);
+}
+
+@media screen and (max-width: 512px) {
+  .PageHeader--Title {
+    font-size: 11.5vmin;
+    margin-bottom: 0;
+  }
 }
