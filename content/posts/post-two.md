@@ -3,7 +3,7 @@ title: The Job
 status: Published
 date: '2018-03-28'
 postFeaturedImage: /images/uploads/TAD-JM.jpg
-excerpt: This is an excerpt of Post Two
+excerpt: I am a proponent of living with focused intention. I lay out plans, establish checkpoints and milestones along the way, and then set them in motion. But in this context, that felt impossible.. 
 categories:
   - category: Code
   - category: Art
