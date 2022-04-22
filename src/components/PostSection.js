@@ -29,7 +29,7 @@ class PostSection extends React.Component {
     const { limit } = this.state
 
     const visiblePosts = _sortBy(posts, ['date'])
-      .reverse()
+      // .reverse()
       // show all unlesss you set a limit.
       .slice(0, limit || posts.length)
 

@@ -1,12 +1,11 @@
 ---
 title: The Job
 status: Published
-date: '2018-03-28'
+date: '2022-04-20'
 postFeaturedImage: /images/uploads/TAD-JM.jpg
 excerpt: I am a proponent of living with focused intention. I lay out plans, establish checkpoints and milestones along the way, and then set them in motion. But in this context, that felt impossible.. 
 categories:
   - category: Code
-  - category: Art
 ---
 
 Why am I doing this? What is my end game? I ask these questions about everything, to the point it can be a nuisance at times. More often than not though, this line of internal questioning has resulted in informed and confident decision making. These questions have helped me throughout my career in analyzing and improving standard operating procedures across industries. However, when I applied this method to my decision to enroll in a coding bootcamp, I was unable to clearly define what my end game was. Why am I doing this? To gain the fundamental skills necessary to transition into the technology sector. What is my end game? Uhhh… to get a job in tech. That answer wasn’t satisfactory. I needed to better hammer this out.

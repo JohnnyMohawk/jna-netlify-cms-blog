@@ -1,7 +1,7 @@
 ---
 title: Cues, Cleavers & Keys
 status: Published
-date: '2022-05-25'
+date: '2022-04-15'
 postFeaturedImage: /images/uploads/cleavers-keys.jpg
 excerpt: I figured that once I could build something that would impress myself, it would impress others as well, that would kill my imposter syndrome, and I would be ready for a job in the tech industry…   
 categories:
