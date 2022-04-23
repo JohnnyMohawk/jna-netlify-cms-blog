@@ -2,7 +2,7 @@
 title: The Engineer
 status: Published
 date: '2022-04-22'
-postFeaturedImage: /images/uploads/YEL-ENGINEER.jpg
+postFeaturedImage: /images/uploads/big-engineer.jpg
 excerpt: >-
   Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam
   interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus

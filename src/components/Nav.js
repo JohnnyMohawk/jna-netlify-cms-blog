@@ -11,9 +11,6 @@ export default ({ handlePopupOpen }) => (
       <Link to='/'>
         <Logo />
       </Link>
-      {/* <NavLink to='/' exact>
-        Home
-      </NavLink> */}
       <NavLink className='jmLink' id="JML" to='/about/' exact>
         ¿Johnny Mohawk?
       </NavLink>
