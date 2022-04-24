@@ -7,6 +7,8 @@ excerpt: >-
   COMING SOON!
 categories:
   - category: Life
+  - category: Code
+  - category: Art
 meta:
   canonicalLink: ''
   description: ''
