@@ -7,6 +7,7 @@ import Meta from './components/Meta'
 import Home from './views/Home'
 import About from './views/About'
 import Blog from './views/Blog'
+import RevBlog from './views/RevBlog'
 import SinglePost from './views/SinglePost'
 import Contact from './views/Contact'
 import NoMatch from './views/NoMatch'
@@ -110,6 +111,15 @@ class App extends Component {
               path='/blog/'
               exact
               component={Blog}
+              fields={this.getDocument('pages', 'blog')}
+              posts={posts}
+              postCategories={postCategories}
+            />
+
+            <RouteWithMeta
+              path='/new-posts/'
+              exact
+              component={RevBlog}
               fields={this.getDocument('pages', 'blog')}
               posts={posts}
               postCategories={postCategories}

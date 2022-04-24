@@ -19,6 +19,9 @@ const PostCategoriesNav = ({ categories }) => (
           {category.title}
         </NavLink>
       ))}
+      <NavLink className='NavLink' exact to={`/new-posts/`}>
+        New
+      </NavLink>
     </div>
   </div>
 )
