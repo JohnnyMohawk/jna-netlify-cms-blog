@@ -7,8 +7,8 @@ phone: ''
 email: johnnelsonalden@gmail.com
 ---
 
-# Super Official Contact Form:
+# Quick Contact Form:
 
-If you would like to contact me please fill out this form and I will get back to you as soon as possible. Thanks and I appreciate you.
+If you would like to contact me, please fill out this form and I will get back to you as soon as possible. Thanks and I appreciate you.
 
 
