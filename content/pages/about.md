@@ -13,7 +13,7 @@ section1: |-
   been a very fruitful one, and now in 2022, I have begun a new chapter of my career as a software engineer and refocused my
   work and non-work life around the arts. Today, Johnny Mohawk is now a personal brand. 
 
-  ### Johnny Mohawk represents drive, reinvention, perseverance, innovation passion and engaging design. 
+  ### Johnny Mohawk represents drive, reinvention, perseverance, innovation, passion and engaging design. 
 
   Now that you know about Johnny Mohawk… the question becomes, who the f*ck is John Nelson-Alden?
 
