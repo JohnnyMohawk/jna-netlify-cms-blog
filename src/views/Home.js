@@ -28,7 +28,7 @@ export default ({ fields }) => {
             <Link to={slugify(`/blog`)} className='homeLinks'>bloggery</Link>.<br/><br/>
 
             Check out more of my work&nbsp;
-            <a href="https://www.johnnelsonalden.com/" target="_blank" rel="noopennernoreferrer" className='homeLinks'>here</a>.
+            <a href="https://www.johnnelsonalden.com/" rel="noopener" target="_blank" className='homeLinks'>here</a>.
           </p>
         </div>
       </div>
