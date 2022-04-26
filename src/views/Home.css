@@ -1,6 +1,12 @@
 .Home {
 }
 
+.homeLinkWrap {
+    font-size: 1.5vmax !important;
+    line-height: 1.75vmax;
+    margin-top: -25px;
+}
+
 .homeLinks {
     text-decoration: none;
 }

@@ -20,7 +20,7 @@ export default ({ fields }) => {
       <div className='section'>
         <div className='container'>
           {/* <Content source={body} /> */}
-          <p>
+          <p className='homeLinkWrap'>
             Welcome to the Johnny Mohawk blog. So...&nbsp;
             <Link to={slugify(`/about`)} className='homeLinks'>who the f*ck is Johnny Mohawk?</Link> <br/><br/> 
 
